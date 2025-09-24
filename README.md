@@ -1,2 +1,2 @@
 # ChallengeAmigoSecreto
-Challenge Aular - Amigo Secreto
+Challenge Alura - Amigo Secreto
